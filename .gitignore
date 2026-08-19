@@ -1,0 +1,17 @@
+# Secrets and environment configurations
+.env
+
+# Python virtual environments & bytecode
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+
+# Executable binaries & large files
+*.exe
+ngrok.exe
+
+# IDE, OS, and tool caches
+.DS_Store
+.claude/

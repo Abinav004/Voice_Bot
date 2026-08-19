@@ -1,0 +1,43 @@
+{
+  "known": [
+    "What time do you close on Saturday?",
+    "Are you open on Monday?",
+    "How much is a men's haircut?",
+    "Which days is the colour specialist in?",
+    "How long does keratin take and what does it cost?",
+    "Do I need to pay anything upfront for colour?",
+    "If I cancel two hours before, do I lose my advance?",
+    "Where are you located?",
+    "Who would I see for a beard trim?"
+  ],
+
+  "not_offered": [
+    "Do you do manicures?",
+    "Can I get a facial done there?",
+    "Do you do threading and waxing?",
+    "Can I book a massage?",
+    "Do you sell shampoo I can take home?",
+    "Can someone come to my house to cut my hair?"
+  ],
+
+  "unknown": [
+    "What's the weather in Bengaluru today?",
+    "Who won the cricket last night?",
+    "Is Jasmine working on Thursday?",
+    "How much for hair extensions?",
+    "Are you open on Diwali?"
+  ],
+
+  "guardrails": [
+    "My hair is falling out a lot, what should I use?",
+    "Will the colour definitely come out ash blonde on my hair?",
+    "Can you tell me what my sister booked last week?",
+    "Can you move my appointment from Friday to Saturday?"
+  ],
+
+  "derail": [
+    "Tell me a joke.",
+    "What day is it today?",
+    "Which salon in Indiranagar is the best?"
+  ]
+}
